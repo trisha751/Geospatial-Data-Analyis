@@ -67,7 +67,24 @@ Geospatial analysis is the gathering, display, and manipulation of imagery, GPS,
 ## Difference b/w costs for 2 people of restaurants accepting and not accepting online orders
 ![8](https://user-images.githubusercontent.com/30564193/118872956-27220900-b8b7-11eb-96dd-ca5478a892f2.png)
 
-##
+## Top 10 most expensive restaurants in Bangalore
+![9](https://user-images.githubusercontent.com/30564193/118873122-5d5f8880-b8b7-11eb-959e-545f7aa4a844.png)
+
+## Top 10 most affordable restaurants in Bangalore
+![10](https://user-images.githubusercontent.com/30564193/118873196-710aef00-b8b7-11eb-8444-3f08fc9708bd.png)
+
+## Good & Affordable restaurants based on different locations
+![11](https://user-images.githubusercontent.com/30564193/118873289-926bdb00-b8b7-11eb-9f60-cd163dd7ba93.png)
+
+## Top 20 locations with the most number of restaurants
+![12](https://user-images.githubusercontent.com/30564193/118873462-cba44b00-b8b7-11eb-94b9-211def6bab7b.png)
+
+## Heatmap of location wise number of restaurants 
+![image](https://user-images.githubusercontent.com/30564193/118873714-102fe680-b8b8-11eb-8b00-7713c004012e.png)
+
+## Heatmap of North Indian restaurants in bangalore
+![image](https://user-images.githubusercontent.com/30564193/118873862-3d7c9480-b8b8-11eb-8510-0a995265b570.png)
+
 
 
 
