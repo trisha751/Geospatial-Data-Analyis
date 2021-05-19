@@ -58,4 +58,17 @@ Geospatial analysis is the gathering, display, and manipulation of imagery, GPS,
 ## Varities of cuisines
 ![5](https://user-images.githubusercontent.com/30564193/118872476-9a774b00-b8b6-11eb-891a-5ec43cc98cd6.png)
 
-## 
+## Approximate cost for 2 people vs Rating
+![6](https://user-images.githubusercontent.com/30564193/118872695-d90d0580-b8b6-11eb-9a5e-41c2c47a5e6d.png)
+
+## Difference b/w votes of restaurants accepting and not accepting online orders
+![7](https://user-images.githubusercontent.com/30564193/118872784-f5a93d80-b8b6-11eb-9df8-5ee1e1435310.png)
+
+## Difference b/w costs for 2 people of restaurants accepting and not accepting online orders
+![8](https://user-images.githubusercontent.com/30564193/118872956-27220900-b8b7-11eb-96dd-ca5478a892f2.png)
+
+##
+
+
+
+
