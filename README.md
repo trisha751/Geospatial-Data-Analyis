@@ -10,7 +10,7 @@ Geospatial analysis is the gathering, display, and manipulation of imagery, GPS,
 
 ## Zomato Data Analysis
 
-#### Steps:
+### I have tried to analyze and vizualize the Zomato dataset by performing below steps::
 1. Cleaned the dataset
 2. Calculated average rating of all restaurants
 3. Evaluated the distribution type of ratings
@@ -37,5 +37,13 @@ Geospatial analysis is the gathering, display, and manipulation of imagery, GPS,
 ## Distribution of Average Rating of Reastaurants
 ![avg_rating](https://user-images.githubusercontent.com/30564193/118870244-51be9280-b8b4-11eb-828d-0c2fab04b7d3.png)
 
+## Top Restaurant Chains in Bangalore
+![restaurant_chains](https://user-images.githubusercontent.com/30564193/118870730-df01e700-b8b4-11eb-9dd0-483ac4751d12.png)
+
+## Restaurants that does not accept online orders
+![1](https://user-images.githubusercontent.com/30564193/118871182-546db780-b8b5-11eb-91c2-86d9e3dc89c8.png)
+
+## Ratio of restaurants that provide table booking to those who do not
+![2](https://user-images.githubusercontent.com/30564193/118871568-b0384080-b8b5-11eb-9df1-6dd5b918b802.png)
 
 
