@@ -33,3 +33,9 @@ Geospatial analysis is the gathering, display, and manipulation of imagery, GPS,
 20. Locations with most number of restaurants
 
 > Libraries Used: pandas, numpy, matplotlib, seaborn, plotly, geopy, folium
+
+## Distribution of Average Rating of Reastaurants
+![avg_rating](https://user-images.githubusercontent.com/30564193/118870244-51be9280-b8b4-11eb-828d-0c2fab04b7d3.png)
+
+
+
