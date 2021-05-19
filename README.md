@@ -46,4 +46,16 @@ Geospatial analysis is the gathering, display, and manipulation of imagery, GPS,
 ## Ratio of restaurants that provide table booking to those who do not
 ![2](https://user-images.githubusercontent.com/30564193/118871568-b0384080-b8b5-11eb-9df1-6dd5b918b802.png)
 
+## Total restaurants types available
+![types](https://user-images.githubusercontent.com/30564193/118872041-29379800-b8b6-11eb-8c24-155946c99597.png)
 
+## Top 10 highest voted restaurants
+![3](https://user-images.githubusercontent.com/30564193/118872235-55ebaf80-b8b6-11eb-80b4-bdb84a61e66b.png)
+
+## Location wise total number of restaurants
+![4](https://user-images.githubusercontent.com/30564193/118872369-7d427c80-b8b6-11eb-8f96-ae1a2a0f6a0f.png)
+
+## Varities of cuisines
+![5](https://user-images.githubusercontent.com/30564193/118872476-9a774b00-b8b6-11eb-891a-5ec43cc98cd6.png)
+
+## 
