@@ -1,7 +1,7 @@
 # Geospatial-Data-Analyis
 
 Interact with Jupyter Notebook:
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trisha751/Geospatial-Data-Analyis/HEAD)
 
 ## What is Geospatial Analysis?
 Geospatial analysis is the gathering, display, and manipulation of imagery, GPS, satellite photography and historical data, described explicitly in terms of geographic coordinates or implicitly, in terms of a street address, postal code, or forest stand identifier as they are applied to geographic models. Geospatial analytics can help organizations anticipate and prepare for possible changes due to changing spatial conditions or location-based events. Develop targeted solutions Location-based analysis can help decision-makers understand why solutions that work in one place often fail in another.
